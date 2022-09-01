@@ -1,1 +1,3 @@
-Shell Permissions project, updated README will follow
+Shell Permission Exercise 
+
+update file will follow with each task details
